@@ -6,55 +6,20 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ---
 ---
+"Folding Beijing"
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+This is a science fiction novel that tells the story of a future Beijing divided into three spatial dimensions based on social class. The protagonist, Lao Dao, a garbage collector living in the third space, risks his life to deliver messages between the three spaces to ensure that his adopted daughter can receive an education. During this process, he witnesses the stories of young women from the upper class who marry into wealth and young university students from the middle class who strive to change their destinies through education. He is also rescued by a benevolent person who moved from the third space to the first space, and after enduring many hardships, he finally returns to his home.
 
-**bold text**
+In this book, three worlds are metaphorical representations of the upper class, middle class, and lower class. As the spaces fold, time also folds. Life in the first space lasts from early morning at 6 AM to the following day's 6 AM, after which it enters a dormant state and shifts to the second and third spaces. Life in the second space lasts from 6 AM the following day to 10 PM at night, and life in the third space lasts from 10 PM to the next morning at 6 AM.
 
-*italicized text*
+I will consider depicting the concept of the three spaces on my cover because these spaces differ significantly in terms of resources, wealth, and living conditions, and I will attempt to incorporate the unique characteristics of each space. In terms of character representation, I may choose to draw objects or features that are representative of the plot and showcase them on the cover.
 
-~~strikethrough text~~
+Since the novel itself has a unique concept of time, I will try to incorporate this temporal concept into the design and interactivity of the cover.
 
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
+The purpose of a book cover is to visualize a part of the book's information. It serves to attract readers visually while conveying some basic information about the book's style, tone, and content.
 
 
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
+(I also upload my sketch as JPG at Brightspace.)
 
 Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+![image description](./sketch.jpg)
