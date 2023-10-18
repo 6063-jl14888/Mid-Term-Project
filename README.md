@@ -6,6 +6,10 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ---
 ---
+
+
+
+PART1:
 "Folding Beijing"
 
 This is a science fiction novel that tells the story of a future Beijing divided into three spatial dimensions based on social class. The protagonist, Lao Dao, a garbage collector living in the third space, risks his life to deliver messages between the three spaces to ensure that his adopted daughter can receive an education. During this process, he witnesses the stories of young women from the upper class who marry into wealth and young university students from the middle class who strive to change their destinies through education. He is also rescued by a benevolent person who moved from the third space to the first space, and after enduring many hardships, he finally returns to his home.
@@ -23,3 +27,19 @@ The purpose of a book cover is to visualize a part of the book's information. It
 
 Image on repo:  
 ![image description](./sketch.jpg)
+
+
+
+
+
+PART2:
+
+After numerous attempts and searching through tutorials, I have finally managed to solve the issue of making the graph move in accordance with the path I had drawn. This is a significant breakthrough for me since, in reality, my poster requires the presentation of numerous graphics and lines. However, as I delved deeper into this project, I encountered some new challenges.
+
+To enhance the visual appeal, I began by implementing a glowing effect for the moving graphics, leaving a colorful trail behind that conceals the underlying path. This approach ensures that the poster viewers won't perceive the actual path but instead see the figures through the mesmerizing trailing effect.
+
+In another endeavor, I experimented with changing the pattern, color, path, and the shape of the moving figure every time the mouse was clicked. This dynamic approach aligns with the stylistic elements found in the three different spaces presented in the book.
+
+
+
+
