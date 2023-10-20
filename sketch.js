@@ -56,19 +56,21 @@ function draw() {
   rect(0,0,600,800,);
 
 
-
+  noFill();
   beginShape();
   for (let i = 0; i < path.length; i++) {
     vertex(path[i].x, path[i].y);
   }
   endShape();
 
+  fill(255, 241, 192);
+
   ellipse(x, y, 10, 10);
 
   let target = path[pathIndex];
   let dx = target.x - x;
   let dy = target.y - y;
-  let speed = 2;
+  let speed = 4;
 
   if (dist(x, y, target.x, target.y) > speed) {
     x += dx / dist(x, y, target.x, target.y) * speed;
@@ -81,19 +83,21 @@ function draw() {
   }
 
 
-
+  noFill();
   beginShape();
   for (let i = 0; i < path1.length; i++) {
     vertex(path1[i].x, path1[i].y);
   }
   endShape();
 
+  fill(255, 241, 192);
+
   ellipse(x1, y1, 10, 10);
 
   let target1 = path1[path1Index];
   let dx1 = target1.x - x1;
   let dy1 = target1.y - y1;
-  let speed1 = 2;
+  let speed1 = 4;
 
   if (dist(x1, y1, target1.x, target1.y) > speed1) {
     x1 += dx1 / dist(x1, y1, target1.x, target1.y) * speed1;
