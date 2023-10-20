@@ -8,8 +8,16 @@ let y1 = 704;
 let path1 = [];
 let path1Index = 0;
 
+let s0 = "FLOATING"
+let s1 = "BEIJING"
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
+
+  textFont("spot mono")
+
+  textSize(80);
+  textAlign(LEFT, TOP);
   
   noFill();
   stroke(255, 241, 192);
@@ -25,7 +33,6 @@ function setup() {
   path.push(createVector(295, 717));
   path.push(createVector(355, 740));
   path.push(createVector(228, 717));
-  path.push(createVector(287, 717));
   path.push(createVector(0, 717));
 
   path1.push(createVector(600, 704));
@@ -97,4 +104,14 @@ function draw() {
       path1Index = 0;
     }
   }
+
+  fill(255);
+  stroke(255, 241, 192);
+  text(s0, 100, 48);
+
+
+  
+  text(s1, 140, 100);
+
 }
+
