@@ -61,6 +61,7 @@ function draw() {
   for (let i = 0; i < pathIndex; i++) {
     vertex(path[i].x, path[i].y);
   }
+  vertex(x,y)
   endShape();
 
   fill(255, 241, 192);
@@ -88,6 +89,7 @@ function draw() {
   for (let i = 0; i < path1Index; i++) {
     vertex(path1[i].x, path1[i].y);
   }
+  vertex(x1,y1)
   endShape();
 
   fill(255, 241, 192);
