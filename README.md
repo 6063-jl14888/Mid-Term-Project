@@ -43,3 +43,11 @@ In another endeavor, I experimented with changing the pattern, color, path, and 
 
 
 
+
+
+
+PART3:
+
+
+
+
