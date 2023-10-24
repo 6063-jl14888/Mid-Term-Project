@@ -49,5 +49,13 @@ In another endeavor, I experimented with changing the pattern, color, path, and 
 PART3:
 
 
+Image on repo:  
+![image description](./a.jpg)
+Image on repo:  
+![image description](./b.jpg)
+Image on repo:  
+![image description](./c.jpg)
+
+
 
 
