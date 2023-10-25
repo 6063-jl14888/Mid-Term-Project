@@ -12,7 +12,6 @@ let path1Index = 0;
 
 
 
-
 let xbeer = 0;
 let ybeer = 723;
 let pathbeer = [];
