@@ -48,6 +48,18 @@ In another endeavor, I experimented with changing the pattern, color, path, and 
 
 PART3:
 
+I completed the programming for the mid-project this week and, after a conversation with the professor, resolved some of the issues that arose last week.
+
+
+
+There are a total of three different patterns, which means three separate paths. By altering and dividing the drawing paths, the patterns take on a more dynamic appearance. Simultaneously, in line with the feature of each space being connected through pipelines in the book, the same pattern is drawn from multiple directions, resembling different individuals arriving in the space through various paths. (In the story, it's not allowed to freely move between spaces, and if someone from a lower level is found secretly coming to an upper level, they are sentenced to death.) In the book, the three spaces switch in a cyclic manner, so the paths in the artwork are also drawn in a cyclic fashion.
+
+In the book, these three spaces switch in relation to time. In my work, the interactivity primarily conveys the concept of "switching." Therefore, viewers can achieve the goal of switching patterns, spaces, colors, and routes by clicking on the screen.
+
+Reference:  
+![image description](./2.jpg)
+![image description](./m.jpg)
+
 
 Image on repo:  
 ![image description](./a.png)
