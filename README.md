@@ -50,11 +50,11 @@ PART3:
 
 
 Image on repo:  
-![image description](./a.jpg)
+![image description](./a.png)
 Image on repo:  
-![image description](./b.jpg)
+![image description](./b.png)
 Image on repo:  
-![image description](./c.jpg)
+![image description](./c.png)
 
 
 
