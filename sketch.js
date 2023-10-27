@@ -44,14 +44,18 @@ let ybottle2 = 514;
 let pathbottle2 = [];
 let pathbottle2Index = 2;
 
-
+let mFont;
 let s0 = "FLOATING"
 let s1 = "BEIJING"
+
+function preload(){
+  mFont = loadFont("./AdobeHebrew-Regular.otf")
+}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  textFont("spot mono")
+  textFont("mFont")
 
   textSize(80);
   textAlign(LEFT, TOP);
