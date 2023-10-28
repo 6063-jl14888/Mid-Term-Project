@@ -55,7 +55,7 @@ function preload(){
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  textFont("mFont")
+  textFont(mFont);
 
   textSize(80);
   textAlign(LEFT, TOP);
